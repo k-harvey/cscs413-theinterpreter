@@ -2,6 +2,6 @@
 
 ## Student Name  : Kyle Harvey
 
-## Student ID    : 915139815
+## Student ID    :
 
-## Student Email : kharvey1@mail.sfsu.edu
+## Student Email : 
